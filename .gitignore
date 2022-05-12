@@ -1,0 +1,5 @@
+*.sqlite
+*.log
+*.pyc
+*.pytest_cache
+*.idea
