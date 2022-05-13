@@ -19,6 +19,7 @@ See specific dependencies in the poetry.lock file.
 
 ### Running the bot:
 
+* `poetry install` to install dependencies.
 * `poetry run python app.py` to run the bot.
 * `poetry run pytest` to run the tests. (generates a `./test.sqlite` file)
 
