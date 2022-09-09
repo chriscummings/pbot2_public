@@ -42,6 +42,7 @@ See specific dependencies in the poetry.lock file.
 * Use UUIDs instead of row ids for confirming and discarding insults. (already generating uuids)
 * Date insult upon usage & only use newer insults?
 * Find reference link(s) for creating & adding a discord bot.
+* Fix the assumption of a nickname (bug)
 
 ### Reference
 
