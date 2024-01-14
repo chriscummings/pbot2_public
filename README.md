@@ -1,19 +1,21 @@
 # pbot2 a Discord Insult Bot
 
+I lazily host this in a TMUX session on a spare Raspberry Pi to harass my friends on Discords I have mod priveleges on. :heart:
+
 ### Features
 
 * Randomly insults chatting users.
-* Give specific usernames a weighted chance to be randomly insulted.
+* **Give specific usernames a weighted chance to be randomly insulted.**
 * Add your own insults via a seed .CSV file or via chatting with bot.
 * Prompts to confirm or discard newly created insults.
 * Automatically deletes unconfirmed insults after 24 hours.
 * Rolls die!
-* There's nothing stopping you from using this to give affirmations instead of insults. =D
+* **There's nothing stopping you from using this to give affirmations instead of insults..** :pray:
 * Logging, tests, etc.
 
 ### Requirements
 * Python 3.7+
-* [Poetry](https://python-poetry.org/) installed.
+* [Poetry](https://python-poetry.org/) assumed **(I'll fix this)**
 
 See specific dependencies in the poetry.lock file.
 
